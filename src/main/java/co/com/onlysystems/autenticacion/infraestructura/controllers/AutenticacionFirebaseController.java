@@ -1,4 +1,4 @@
-package co.com.onlysystems.autenticacion.controllers;
+package co.com.onlysystems.autenticacion.infraestructura.controllers;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestMapping;
